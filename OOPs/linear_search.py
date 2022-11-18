@@ -24,3 +24,5 @@ if search(lst,n):
     print('Found',pos+1)
 else:
     print('Not found')
+    
+print('Msg from GIT hub')
