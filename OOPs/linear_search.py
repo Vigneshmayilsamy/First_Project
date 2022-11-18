@@ -24,5 +24,6 @@ if search(lst,n):
     print('Found',pos+1)
 else:
     print('Not found')
-    
-print('Msg from GIT hub')
+
+for i in range(2):
+    print('Msg from GIT hub',i)
